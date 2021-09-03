@@ -1,0 +1,10 @@
+com/barbosa/meudiaadia/BuildConfig.java
+ com.barbosa.meudiaadia.BuildConfig
+com/barbosa/meudiaadia/databinding/ActivityMainBinding.java
+ com.barbosa.meudiaadia.databinding.ActivityMainBinding
+com/barbosa/meudiaadia/databinding/ActivityAddTaskBinding.java
+ com.barbosa.meudiaadia.databinding.ActivityAddTaskBinding
+com/barbosa/meudiaadia/databinding/ItemTaskBinding.java
+ com.barbosa.meudiaadia.databinding.ItemTaskBinding
+com/barbosa/meudiaadia/databinding/EmptyStateBinding.java
+ com.barbosa.meudiaadia.databinding.EmptyStateBinding
